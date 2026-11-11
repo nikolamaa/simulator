@@ -1,0 +1,12 @@
+{
+  "name": "Longplay",
+  "short_name": "Longplay",
+  "description": "Play your own handheld game files in release order, with progress saved automatically.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16151d",
+  "theme_color": "#16151d",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
